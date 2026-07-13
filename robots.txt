@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://BGregory98.github.io/sitemap.xml
+Sitemap: https://ben-gregory.com/sitemap.xml
